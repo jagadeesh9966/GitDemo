@@ -18,3 +18,4 @@ action.double_click(driver.find_element(By.ID,"double-click")).perform()
 alert = driver.switch_to.alert
 assert "You double clicked me!!!, You got to be kidding me" == alert.text
 alert.accept()
+print(jagadeesh)
