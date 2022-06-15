@@ -1,0 +1,5 @@
+abc
+bucdc
+cat
+elephant
+dog
